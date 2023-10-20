@@ -12,9 +12,11 @@
 
 
 <h3>Kullanilan Teknolojiler </h3>
-- Html
-- Css 
-- JavaScript
-- Fontawesome
+- Html <br>
+- Css <Br>
+- JavaScript <br>
+- Fontawesome <br>
+
+<br> <br>
 
 ![](tweetproje.gif)
